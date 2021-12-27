@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Algovera',
+  title: 'Algovera Docs',
   tagline: 'Your guide to Algovera',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/AlgoveraAI/handbook',
               },
             ],
           },

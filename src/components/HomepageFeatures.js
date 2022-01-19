@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Handbook',
+    Svg: require('../../static/img/Instruction-manual-bro.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The handbook will give an overview of Algovera. Discover our vision for the future of AI and the culture that is engrained into our community.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Tracks',
+    Svg: require('../../static/img/adve.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        There are many ways to contribute to Algovera's vision of a decentralised AI economy. Tracks are the different ways you can take to add value to Algovera.  
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Blogs',
+    Svg: require('../../static/img/Blogging-bro.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Algovera will publish blogs to communicate updates, decisions, and plans. Learn more about Algovera's progress by following the blogs.  
       </>
     ),
   },

@@ -55,6 +55,7 @@ const config = {
             position: 'left',
             label: 'Handbook',
           },
+
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/AlgoveraAI/handbook',

@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/adve.svg').default,
     description: (
       <>
-        There are many ways to contribute to Algovera's vision of a decentralised AI economy. Tracks are the different ways you can take to add value to Algovera.  
+        There are many ways to contribute to Algovera's vision of a decentralised AI economy. Tracks are the different ways you can add value to Algovera.  
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/Blogging-bro.svg').default,
     description: (
       <>
-        Algovera will publish blogs to communicate updates, decisions, and plans. Learn more about Algovera's progress by following the blogs.  
+        Algovera will publish blogs to communicate updates, decisions, and plans. Learn more about Algovera's progress by following these blogs.  
       </>
     ),
   },

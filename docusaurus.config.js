@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Algovera Docs',
   tagline: 'Your guide to Algovera',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.algovera.ai/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'AlgoveraAI', // Usually your GitHub org/user name.
   projectName: 'handbook', // Usually your repo name.
 
   presets: [
@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Handbook/intro',
+            docId: 'Handbook/Introduction',
             position: 'left',
             label: 'Handbook',
           },
@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'Handbook',
-                to: '/docs/intro',
+                to: '/docs/Handbook/Introduction',
               },
             ],
           },

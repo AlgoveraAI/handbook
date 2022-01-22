@@ -11,4 +11,4 @@ Before diving in to all our community has to offer, please take a moment to go t
 - **Where to go for support and questions**
     - Discord channels
     - Discourse forums
-    - Community Resourc
+    - Community Resource

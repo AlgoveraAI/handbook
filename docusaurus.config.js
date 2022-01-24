@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/AlgoveraAI/handbook/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/AlgoveraAI/handbook/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -80,6 +80,10 @@ const config = {
                 label: 'Handbook',
                 to: '/docs/Handbook/Introduction',
               },
+              {
+                label: 'Tracks',
+                to: '/docs/Tracks/Coming Soon',
+              },
             ],
           },
           {
@@ -109,6 +113,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/AlgoveraAI/handbook',
+              },
+              {
+                label: 'Newsletter',
+                href: 'http://eepurl.com/hSYfK5',
               },
             ],
           },

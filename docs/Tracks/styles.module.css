@@ -1,0 +1,24 @@
+.mainContainer{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    place-content: center;
+    gap: 1.5rem;
+}
+
+.card{
+    border-radius: 4px;
+    box-shadow: 0 5px 10px -3px rgba(0,0,0,0.5);
+    padding: 2rem;
+    border-color: rgba(246, 246, 246, 0.09);
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+}
+.card:hover{
+    box-shadow: 0 5px 10px -3px rgba(72, 77, 255, 1);
+    transition: 0.5s ease-in;
+}
+.card h1{
+    font-size: 18px;
+}

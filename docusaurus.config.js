@@ -57,7 +57,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Tracks/Coming Soon',
+            docId: 'Tracks/Introduction',
             position: 'left',
             label: 'Tracks'
           },

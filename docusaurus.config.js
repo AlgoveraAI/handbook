@@ -82,7 +82,7 @@ const config = {
               },
               {
                 label: 'Tracks',
-                to: '/docs/Tracks/Coming Soon',
+                to: '/docs/Tracks/Introduction',
               },
             ],
           },

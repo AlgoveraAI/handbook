@@ -1,0 +1,1 @@
+We are currently planning Algovera Academy which will teach you everything you need to know to get started in Algovera. In the meantime, check out our hacking session playlist and the suggested learning resources on [Algovera's Notion](https://algovera.notion.site/) page.

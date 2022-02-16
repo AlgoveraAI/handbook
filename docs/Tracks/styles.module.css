@@ -14,11 +14,20 @@
     border-width: 1px;
     border-style: solid;
     cursor: pointer;
+    color: initial;
+    text-decoration: none;
+
 }
 .card:hover{
     box-shadow: 0 5px 10px -3px rgba(72, 77, 255, 1);
-    transition: 0.5s ease-in;
+    transition: 0.2s ease-in;
+    color: initial;
+    text-decoration: none;
 }
 .card h1{
     font-size: 18px;
+}
+
+.card a {
+
 }

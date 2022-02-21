@@ -1,4 +1,4 @@
-# Algovera Jupyter Lab Library
+# Algovera JupyterLab Library
 
 The Algovera library is used to connect your Jupyter Lab instance with your Metamask wallet and allow you to easily connect with Web3 data and AI services.
 

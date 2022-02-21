@@ -1,0 +1,1 @@
+Developer Docs provides information about the technical products that Algovera releases. Our products are still under development. We will be launching Algovera products soon. 

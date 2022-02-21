@@ -64,6 +64,12 @@ const config = {
 
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            type: 'doc',
+            docId: 'Developer/Introduction',
+            position: 'left',
+            label: 'Developer Docs',
+          },
+          {
             href: 'https://github.com/AlgoveraAI/handbook',
             label: 'GitHub',
             position: 'right',
@@ -83,6 +89,10 @@ const config = {
               {
                 label: 'Tracks',
                 to: '/docs/Tracks/Introduction',
+              },
+              {
+                label: 'Developer Docs',
+                to: '/docs/Developer/Introduction',
               },
             ],
           },

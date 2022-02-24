@@ -7,7 +7,7 @@ Algovera help facilitate and accelerate the development of decentralised AI prod
 Algovera makes it easier and faster for AI teams to build useful apps. We connect AI specialists with data providers, software developers, business developers and investors. We train them up on how to use data marketplaces and private AI technologies. We provide grants to teams for their own exciting ideas, as voted on by the community. We connect them with partners that provide bounties for data science work that they have a need for. 
 
 
-An organization like Algovera is a relatively new concept and you can think of it in a few different ways. AI Product DAO. AI Grants DAO. Web3 AI Consultancy. MOOC for AI in Web3. A global operating system for AI developmen
+An organization like Algovera is a relatively new concept and you can think of it in a few different ways. AI Product DAO. AI Grants DAO. Web3 AI Consultancy. MOOC for AI in Web3. A global operating system for AI development.
 
 ## Why is Algovera needed?
 There exist several barriers that hinder AI projects from becoming commercially successful. Building a ML model requires you to have large amounts of data. Acquiring and processing the dataset requires an enormous amount of upfront capital. Additionally, there are large overhead costs for an AI startup. Unless there is sufficient funding, failure is highly likely. 

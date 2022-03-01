@@ -16,7 +16,7 @@ app = JupyterFrontEnd()
 
 - prompt a MetaMask connection (can also be accessed from the Jupyter Lab menu)
 
-`app.commands.execute('send_ocean')
+`app.commands.execute('send_ocean')`
 
 - send Ocean to a test wallet (required for interacting with Ocean Market)
 - prompts a MetaMask signature
@@ -26,7 +26,7 @@ app = JupyterFrontEnd()
 - buy and download a dataset from the Ocean Market
 - requires the dataset DID and pool address
 
-`app.ocean.c2d(dataset_did: str, algorithm_did: str)
+`app.ocean.c2d(dataset_did: str, algorithm_did: str)`
 
 - run a compute to data job from Ocean Market
 - buys a datatoken for the dataset and algorithm for access

@@ -4,7 +4,7 @@ Algovera empowers data scientists and entrepreneurs to quickly and efficiently b
 
 Check out a video walkthrough of the resources available through the Algovera Create Track below!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/jY_eSWdIFRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/jY_eSWdIFRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Community Resources:
 

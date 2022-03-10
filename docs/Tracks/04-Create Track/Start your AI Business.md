@@ -2,6 +2,10 @@ Algovera aims to simplify and improve the experience of building data science pr
 
 Algovera empowers data scientists and entrepreneurs to quickly and efficiently build AI businesses from the ground up. We do this by providing community resources, technical resources, and financial resources.
 
+Check out a video walkthrough of the resources available through the Algovera Create Track below!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jY_eSWdIFRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Community Resources:
 
 Building your AI business within the Algovera ecosystem comes with the distinct advantage of a community of Web3 data scientists. Through our Community Directory and Discord server, founders and project leaders can view community members' contact information, credentials such as LinkedIn and Github, and their interest areas at a glance.

@@ -1,5 +1,9 @@
 The Algovera Earn Track provides instructions and resources that help guide community members towards getting paid work within the Algovera ecosystem.
 
+Checkout the walkthrough video for the Earn Track below!
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Ah041XsTr8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Where to start:
 
 - Make sure you can get paid! If you don't already have a web3 wallet, you'll need to set one up in order to get paid for your work with Algovera. See resources below for getting set up with a MetaMask wallet.

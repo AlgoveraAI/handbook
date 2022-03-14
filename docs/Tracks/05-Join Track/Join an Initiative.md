@@ -1,5 +1,9 @@
 The Algovera community has multiple active projects, discussions, and working groups and new community members are encouraged to explore existing opportunities and join groups that suit their interests. The Join Track serves to provide actionable steps to joining an active Algovera Squad as well as resources for getting involved in the greater community.
 
+Check out the video walkthrough for the Join Track below!
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/OefmmsjiZxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Joining a Squad:
 
 Squads are funded groups working on a specific project which have concrete deliverables and do not have a membership cap. All active squads along with their current membership list can be found on the Algovera Squads page in Notion: [https://algovera.notion.site/Squads-194768658a044302a0cdc24d5d758b9d](https://algovera.notion.site/Squads-194768658a044302a0cdc24d5d758b9d)

@@ -4,7 +4,7 @@ The Algovera library is used to connect your Jupyter Lab instance with your Meta
 
 ## Getting started
 
-```
+```python
 from algovera import JupyterFrontEnd
 
 app = JupyterFrontEnd()

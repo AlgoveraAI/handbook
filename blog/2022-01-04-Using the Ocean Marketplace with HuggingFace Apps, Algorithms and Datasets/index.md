@@ -41,7 +41,7 @@ With Ocean, you can effectively create private datasets on HuggingFace. As a rem
 
 It would also be possible to use HF Hub for downloading the sample data of Ocean datasets that provide compute access only. Determining statistics of the full dataset is also possible, but would require an app.
 
-[art](./art.png)
+![art](./art.png)
 
 CryptoPunks
 

@@ -1,10 +1,10 @@
 ---
 authors: [keaton]
-tags: [Algovera Grants, Data Science, Web3, Machine Learning, Startup, Ocean Protocol, DAOHaus, DAO, Algovera Squads]
+tags: [Algovera Grants, Data Science, Web3, Machine Learning, Startup, DAOHaus, DAO, Algovera Squads]
 --- 
-
-
 We’re incredibly excited to announce the second round of Algovera Grants! We had an *amazing* first round with total projects receiving funding and some really innovative projects taking off - take a look at our [blog post detailing the first round process](https://20algovera/), and our [Notion page](https://www.notion.so/Squads-194768658a044302a0cdc24d5d758b9d) detailing previous grant winners.
+
+<!--truncate-->
 
 We also recently wrapped up the [Algovera x LYNX hackathon](https://www.youtube.com/watch?v=O05nH1kzgWE) where our community members partnered with the amazing folks at LYNX to develop a BCI algorithm! Additionally, our first freelance project with nCight was completed resulting in a medical image recognition app build by community members! The [Algovera Earn Track](https://docs.algovera.ai/docs/Tracks/Earn%20Track/Earn%20an%20Income) provides action items and information needed to get started earning in web3, so if you’re interested in future projects like this check out the video and get started today!
 

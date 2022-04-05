@@ -1,1 +1,1 @@
-Developer Docs provides information about the technical products that Algovera releases. Our products are still under development. We will be launching Algovera products soon. 
+Developer Docs provides information about the technical products that Algovera releases. Our products are still in alpha. If you see a bug or want to request a feature please use github issues or contact the core team on discord.  

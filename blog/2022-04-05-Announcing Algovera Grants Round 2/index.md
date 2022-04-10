@@ -12,7 +12,11 @@ As with Round 1, our plan is to award **$5000 USDC** in grants to 5 separate pro
 
 Because of these difficulties we needed to adopt a different approach to ensure community members could engage in governance without technical problems holding them back. We plan on implementing a new voting system using on-chain assets which should mitigate the issues folks experienced using POAP Vote. As soon as testing is complete and we finalize plans for the new system we will release full details. In the meantime, please feel free to drop a message in the Discord if anyone has questions or concerns!
 
-Interested Squads can still apply for Round 2 funding prior to the release of the new voting system, and we will work to retroactively award tokens based on community activity.
+Interested Squads can still apply for Round 2 funding prior to the release of the new voting system, and we will work to retroactively award tokens based on community activity. To apply for Algovera Round 2 Grants, please follow the process outlined below.
+
+**Submission and Discussion Process**
+
+The first step is to write up a proposal for your idea (about one A4 page) following [this](https://forum.algovera.ai/t/grant-proposal-template/15) template. As a rough guideline, the deliverables might be designed to be achievable in one month of part-time work. The proposal should be posted to the Algovera Discourse forum under the [Proposals](https://forum.algovera.ai/c/proposals) category before the proposal deadline (January 16th at 23:59 GMT). A period of 7 days will follow for community feedback and discussion. This should take place primarily in the comments sections of the project posts in the forum. Projects will also be given the opportunity to present their proposals in the Algovera Town Hall on Monday, January 17th.
 
 For more information on the first round of proposals and winners, check out our [Round 1 follow up blog post!](https://docs.algovera.ai/blog/2022/01/27/grant%20recipients%20for%20algovera%20grants%20r1/)
 

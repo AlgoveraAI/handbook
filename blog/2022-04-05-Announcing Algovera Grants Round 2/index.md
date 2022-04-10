@@ -17,3 +17,9 @@ Interested Squads can still apply for Round 2 funding prior to the release of th
 For more information on the first round of proposals and winners, check out our [Round 1 follow up blog post!](https://docs.algovera.ai/blog/2022/01/27/grant%20recipients%20for%20algovera%20grants%20r1/)
 
 We are so impressed and excited by the work Squads have done during Round 1 of our Grants program, and we can’t wait to see what our amazing community comes up with for Round 2! Here’s to building the future of Web3 and Decentralized AI!
+
+The following are the provisional dates for Round 2 of Algovera Grants:
+11th of April - 17th of April = Application Open & Claim Reputation NFTs (votes)
+18th of April - 20th of April = Review & Feedback on Applications
+21st of April - 24th of April = Voting Period
+25th of April = Announce Winners

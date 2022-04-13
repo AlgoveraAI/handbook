@@ -17,7 +17,7 @@ Interested Squads can still apply for Round 2 funding prior to the release of th
 
 **Submission and Discussion Process**
 
-The first step is to write up a proposal for your idea (about one A4 page) following [this](https://forum.algovera.ai/t/grant-proposal-template/15) template. As a rough guideline, the deliverables might be designed to be achievable in one month of part-time work. The proposal should be posted to the Algovera Discourse forum under the [Proposals](https://forum.algovera.ai/c/proposals) category before the proposal deadline (April 17th at 23:59 GMT). A period of 3 days will follow for community feedback and discussion. This should take place primarily in the comments sections of the project posts in the forum. 
+The first step is to write up a proposal for your idea (about one A4 page) following [this](https://forum.algovera.ai/t/grant-proposal-template/15) template. As a rough guideline, the deliverables might be designed to be achievable in one month of part-time work. The proposal should be posted to the Algovera Discourse forum under the [Proposals](https://forum.algovera.ai/c/proposals) category before the proposal deadline (April 20th at 23:59 GMT). A period of 3 days will follow for community feedback and discussion. This should take place primarily in the comments sections of the project posts in the forum. 
 
 For more information on the first round of proposals and winners, check out our [Round 1 follow up blog post!](https://docs.algovera.ai/blog/2022/01/27/grant%20recipients%20for%20algovera%20grants%20r1/)
 

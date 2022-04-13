@@ -1,6 +1,6 @@
 ---
 authors: [keaton]
-tags: [Algovera Grants, Data Science, Web3, Machine Learning, Startup, DAOHaus, DAO, Algovera Squads]
+tags: [Algovera Grants, Data Science, Web3, Machine Learning, Hackathon, Algovera Squads]
 --- 
 We’re incredibly excited to announce the second round of Algovera Grants! We had an *amazing* first round with eight projects receiving funding and some really innovative projects taking off - take a look at our [blog post detailing the first round process](https://20algovera/), and our [Notion page](https://www.notion.so/Squads-194768658a044302a0cdc24d5d758b9d) detailing previous grant winners.
 
@@ -24,7 +24,7 @@ For more information on the first round of proposals and winners, check out our 
 We are so impressed and excited by the work Squads have done during Round 1 of our Grants program, and we can’t wait to see what our amazing community comes up with for Round 2! Here’s to building the future of Web3 and Decentralized AI!
 
 The following are the provisional dates for Round 2 of Algovera Grants:
-- 11th of April - 17th of April = Application Open & Claim Reputation NFTs (votes)
-- 18th of April - 20th of April = Review & Feedback on Applications
-- 21st of April - 24th of April = Voting Period
-- 25th of April = Announce Winners
+- 11th of April - 20th of April = Application Open & Claim Reputation NFTs (votes)
+- 21st of April - 24th of April = Review & Feedback on Applications
+- 25st of April - 28th of April = Voting Period
+- 28th of April = Announce Winners

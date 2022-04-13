@@ -1,10 +1,10 @@
 ---
 authors: [keaton]
-tags: [Algovera Grants, Data Science, Web3, Machine Learning, Startup, Ocean Protocol, DAOHaus, DAO, Algovera Squads]
+tags: [Algovera Grants, Startup, Reputation, Algovera Squads]
 --- 
 
 
-As we continue to refine and improve internal processes at Algovera, we have begun to leverage the power and flexibility of NFTs to improve our Grant voting process. The Algovera Reputation NFT collection is meant to facilitate voting in Algovera Grants Round 2, where each NFT will award voting power to community members based on the criteria listed below. The collection has been minted Polygon and are available on OpenSea, check them out [here](https://opensea.io/collection/reputation-nfts)!
+As we continue to refine and improve internal processes at Algovera, we have begun to leverage the power and flexibility of NFTs to improve our Grant voting process. The Algovera Reputation NFT collection is meant to facilitate voting in Algovera Grants Round 2, where each NFT will award voting power to community members based on the criteria listed below. The collection has been minted on Polygon and are available on OpenSea, check them out [here](https://opensea.io/collection/reputation-nfts)!
 
 <!--truncate-->
 

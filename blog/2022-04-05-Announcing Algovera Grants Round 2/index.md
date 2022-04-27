@@ -25,6 +25,6 @@ We are so impressed and excited by the work Squads have done during Round 1 of o
 
 The following are the provisional dates for Round 2 of Algovera Grants:
 - 11th of April - 20th of April = Application Open & Claim Reputation NFTs (votes)
-- 21st of April - 24th of April = Review & Feedback on Applications
-- 25st of April - 28th of April = Voting Period
-- 28th of April = Announce Winners
+- 21st of April - 28th of April = Review & Feedback on Applications
+- 29st of April - 02nd of May = Voting Period
+- 03rd of May = Announce Winners

@@ -25,3 +25,4 @@ To claim any of the above tokens, please reach out to Hithesh on Discord - **Hit
 Round 2 voting will be held on Snapshot and will award voting power based on which NFTs each community member holds. Each community member is eligible to hold multiple NFTs (i.e. Contributor and Governance Participant) and will be able to leverage that voting power accordingly.
 
 As always, we are working to create tools and workflows that work best for the community and are actively making adjustments to our processes based on feedback. Please don’t hesitate to reach out to the core team on discord if you have any questions or suggestions!
+

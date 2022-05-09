@@ -46,6 +46,9 @@ Now, we are ready to run the demo [app](https://huggingface.co/spaces/AlgoveraAI
 
 ![mic](./mic.png)
 
+## Video Tutorial
+To view the video tutorial of this blog, click the following link: 
+
 ## Join our community
 
 Algovera is a community of data scientists, domain experts, software developers and other stakeholders. The workflow and practices for data science become quite different with recently-maturing technologies such as private AI, data marketplaces and Web3.  Our goal is to build tools that make it easier to create and maintain ownership of AI apps.

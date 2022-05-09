@@ -47,7 +47,7 @@ Now, we are ready to run the demo [app](https://huggingface.co/spaces/AlgoveraAI
 ![mic](./mic.png)
 
 ## Video Tutorial
-To view the video tutorial of this blog, click the following link: 
+To view the video tutorial for this blog, click on the following link: https://www.youtube.com/watch?v=CDsimo0OGCA
 
 ## Join our community
 

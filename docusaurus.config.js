@@ -27,6 +27,7 @@ const config = {
           editUrl: 'https://github.com/AlgoveraAI/handbook/tree/master/',
         },
         blog: {
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:

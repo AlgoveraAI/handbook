@@ -62,6 +62,7 @@ Access to the tools and resources required for studying human society, the natur
 
 ### **(5) The Decentralized AI Stack** (Richard Blythman, Algovera)
 
+![richard](./richard.png)
 
 **Bio:** *Richard is a machine learning engineer with a research background. He co-founded Algovera to tackle issues he experienced in big tech, universities and startups around applications, funding, and the time taken to develop AI apps.*
 

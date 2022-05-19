@@ -2,9 +2,11 @@
 authors: [richard]
 tags: [Algovera Freelance, Data Science, Web3, Machine Learning, Crowdsourcing, Fairness, Ocean Protocol]
 --- 
+
 ![patnershipwithdataunion](./faceanon-freelance.png)
 
 The mission of Algovera is to empower data scientists to work independently and keep ownership of what they create. We are passionate about creating AI apps that are oriented to the needs and preferences of the user rather than the corporation. For this reason, we are very excited to announce our partnership with DataUnion to improve the performance of face anonymization algorithms across different ages, ethnicities, and genders. In particular, this project will explore a novel approach to creating AI apps that are more fair, unbiased, and collectively owned by users and creators, using the advantages of networks, crowdsourcing and Web3. You can can find information on this new approach and why we think it’s important below.  We are currently looking for freelance data scientists to work with us on this project, and you can submit your application using this [form](https://airtable.com/shrM89bWBQ5I8FIfa). 
+<!--truncate-->
 
 ### How does machine learning/computer vision work?
 

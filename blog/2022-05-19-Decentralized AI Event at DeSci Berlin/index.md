@@ -6,7 +6,9 @@ tags: [Decentralized AI, Decentralized Science, Ocean Protocol, Protocol Labs, D
 _[OpSci](https://opsci.io/) and Algovera (with the support of OceanDAO) are proud to announce a workshop and talks on "Decentralized AI Infrastructure for Scientific Research in Autonomous Communities" at [DeSci Berlin](https://www.desci.berlin/) on May 24th, 10 am - 11.30 am._
 
 ![solarpunk-berlin](./solarpunk-berlin.jpg)
-<center>_Solarpunk Berlin by Alex Rommel_</center>
+_<center> Solarpunk Berlin by Alex Rommel </center>_
+
+## Foreword
 
 AI development is a complex process with many moving parts that need to come together to create real-world applications. At the moment, this work is usually performed within centralized institutions such as universities and tech companies. This has advantages for coordination, as well as providing infrastructure and capital. These organizations also provide a huge opportunity to learn from other experienced and talented individuals. 
 
@@ -18,15 +20,23 @@ With this in mind, we are very excited to announce the very first decentralized 
 
 ---
 
+## Event Information
+
 **Session Title**
 
 Decentralized AI Infrastructure for Scientific Research in Autonomous Communities
+
+**Organizers**
+Shady (OpSci), Richard (Algovera)
+
+**Session Date**
+May 24th, 10am - 1130am CET
 
 **Session Theme**
 
 Access to the tools and resources required for studying human society, the natural world, and our collective impact on it, have been traditionally limited to those with privileged access. Currently, a fresh wave of data is being onboarded to a new open source infrastructure, opening up vast new opportunities for secondary use-cases. Digital communities all around the world can now access massive volumes of data and collaborate in real time, increasing the collective throughput of scientific research and development of real-world applications. Raw data has latent value that requires processing to extract insights and enable useful predictions, e.g. using machine learning and AI. However, this is a complex process involving many steps and moving parts. Decentralization offers potential benefits, but development of the underlying infrastructure is early-stage and fragmented. Key bottlenecks include access to compute and storage resources, tools for transparency and governance, and limitations of current intellectual property. In this session, we explore current developments in decentralized AI infrastructure, such as decentralized web storage, accessible compute markets, decentralized autonomous research communities, and knowledge artifacts as synthetic non-fungible assets - with a particular focus on open science communities.
 
-## Session Participants.
+## Session Participants
 
 ### **(1) Composable DeSci Flows Via Token-Wrapped Data & Algorithms** (Trent McConaghy, Ocean Protocol)
 

@@ -11,6 +11,15 @@ We recommend following the steps below when first joining our Discord server:
 
 Have a look through the channels and get a feel for what is being discussed in each channel. Join in on the conversation!
 
+
+## Intros.ai
+
+Intros.ai provides a platform to meet other community members who share your interests, or who have expertise in areas you care about. By signing up for the [Algovera Intros.ai space](https://profile.intros.ai/join/alogvera.ai-1), you can specify which interest areas you'd like your potential matches to have, as well as the frequency of suggested meetups. You have full control over any potential meetups, and you can always adjust the frequency and specifics of suggested meetups.
+
+Once a match has been made based on the criteria you choose, Intros.ai will send an email notification to both parties and request dates and times for a potential meet up! Once both people agree to a day and a time Intros.ai will automatically create a calendar item for you, and on the specified meeting time the platform will also provide video conferencing software - there's nothing else you need to do!
+
+If you need any help changing your meeting settings or have general questions, reach out to us in Discord!
+
 ## Notion
 
 The Algovera notion site serves as a database for the Algovera Community. You can find information about past events, links to resources, active projects within the community, and a directory with active contributor information. Notion is a great place to start if you want to dive into our resources and current projects happening in the community.

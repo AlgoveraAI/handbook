@@ -2,8 +2,7 @@
 authors: [richard]
 tags: [Decentralized AI, Decentralized Science, Ocean Protocol, Protocol Labs, DeSci Labs, Digital Gaia]
 --- 
-
-<img src="solarpunk-berlin.jpg" alt="drawing" width="200"/>
+![solarpunk-berlin](./solarpunk-berlin.png)
 
 
 AI development is a complex process with many moving parts that need to come together to create real-world applications. At the moment, this work is usually performed within centralized institutions such as universities and tech companies. This has advantages for coordination, as well as providing infrastructure and capital. These organizations also provide a huge opportunity to learn from other experienced and talented individuals. 
@@ -28,7 +27,7 @@ Access to the tools and resources required for studying human society, the natur
 
 **(1) Composable DeSci Flows Via Token-Wrapped Data & Algorithms (**Trent McConaghy, Ocean Protocol)
 
-<img src="trent.png" alt="drawing" width="100"/>
+![trent](./trent.png)
 
 **Bio:** *Trent McConaghy co-founded Ocean Protocol. He has worked on AI since 1997 (circuit synthesis, statistical verification), and blockchain since 2013 (incl. Token Engineering, agent-based simulation, and Ocean). He holds a PhD in EE. He's written two textbooks and 40+ peer-reviewed papers and patents.*
 
@@ -40,13 +39,13 @@ Access to the tools and resources required for studying human society, the natur
 
 (2) **Compute over Data** (David Aronchik, Protocol Labs)
 
-<img src="david.png" alt="drawing" width="100"/>
+![david](./david.png)
 
 **Bio:** *David Aronchik is the Lead of Research Development at Protocol Labs, helping, deploying and organizing our community building the next generation of the Internet. Previously, David led Open Source Machine Learning Strategy at Azure, product management for Kubernetes on behalf of Google, launched Google Kubernetes Engine, and co-founded the Kubeflow project and the SAME project. He has also worked at Microsoft, Amazon and Chef and co-founded three startups.*
 
 (3) **Decentralized Infrastructure for Science (**Christopher Hill, DeSci Labs)
 
-<img src="chris.png" alt="drawing" width="100"/>
+![chris](./chris.png)
 
 **Bio:** *Dr. Christopher Hill is a published neuroscientist and founder of DeSci Labs.*
 
@@ -54,7 +53,7 @@ Access to the tools and resources required for studying human society, the natur
 
 **(4) Decentralized AI for Planetary Regeneration** **(**Rafael Kaufmann, Digital Gaia)
 
-<img src="rafael.png" alt="drawing" width="100"/>
+![rafael](./rafael.png)
 
 **Bio:** *Raf is a technologist with experience encompassing physics, economics, AI, statistical and complex systems modeling, product management, entrepreneurship, and organizational development. After 6 years learning about collective intelligence and applying it to scale organizational effectiveness at Google, he co-founded Digital Gaia with the mission of building Earth's neocortex.*
 
@@ -63,7 +62,7 @@ Access to the tools and resources required for studying human society, the natur
 
 **(5) The Decentralized AI Stack** (Richard Blythman, Algovera)
 
-<img src="richard.png" alt="drawing" width="100"/>
+![richard](./richard.png)
 
 **Bio:** *Richard is a machine learning engineer with a research background. He co-founded Algovera to tackle issues he experienced in big tech, universities and startups around applications, funding, and the time taken to develop AI apps.*
 

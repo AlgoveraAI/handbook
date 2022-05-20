@@ -60,7 +60,7 @@ Access to the tools and resources required for studying human society, the natur
 
 ![chris](./chris.png)
 
-**Bio:** *Dr. Christopher Hill is a published neuroscientist and founder of DeSci Labs.*
+**Bio:** *Dr. Christopher Hill is a co-founder of DeSci Labs. Chris is an interdisciplinary scientist who worked at the crossroads of neuroscience, economics, and machine learning. He holds a PhD in Neuroeconomics.*
 
 **Talk Abstract:** *Together, Protocol Labs and DeSci Labs are democratizing access to scientific infrastructure by creating technologies to promote reproducibility, replicability, and recalibrate the incentives to produce and verify new knowledge. The ability to run compute, whether for data processing or serving (e.g. microservices) is a major missing piece of the DeSci stack. By enabling spare compute power globally to be contributed to an open market of providers and scientists, the cost of compute can become accessible to all scientists, promoting global knowledge sharing.*
 

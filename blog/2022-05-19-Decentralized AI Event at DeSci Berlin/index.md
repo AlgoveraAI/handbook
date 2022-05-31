@@ -8,6 +8,8 @@ _[OpSci](https://opsci.io/) and Algovera (with the support of OceanDAO) are prou
 ![solarpunk-berlin](./solarpunk-berlin.jpg)
 _<center> Solarpunk Berlin by Alex Rommel </center>_
 
+<!--truncate-->
+
 ## Foreword
 
 AI development is a complex process with many moving parts that need to come together to create real-world applications. At the moment, this work is usually performed within centralized institutions such as universities and tech companies. This has advantages for coordination, as well as providing infrastructure and capital. These organizations also provide a huge opportunity to learn from other experienced and talented individuals. 

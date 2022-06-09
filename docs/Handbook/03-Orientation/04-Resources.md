@@ -26,14 +26,10 @@ The Algovera notion site serves as a database for the Algovera Community. You ca
 
 We are always updating our notion site and adding new information, if you find anything that needs to be updated or changed, please contact an admin in Discord!
 
-**This is the link to our notion:**
-
-**[https://algovera.notion.site/](https://algovera.notion.site/)**
+[**Algovera Notion Page**](https://algovera.notion.site/)
 
 ## Calendar
 
 Algovera hosts multiple community events on a recurring basis including hands-on hacking sessions, general discussions called “Juntos” and weekly Townhalls where updates and future plans are shared.
 
-**You can find information on all Algovera community events on our Calendar below:**
-
-**[https://algovera.notion.site/Calendar-9d79fab364234b47b6d24021efc28e42](https://www.notion.so/Calendar-9d79fab364234b47b6d24021efc28e42)**
+**You can find information on all Algovera community events on our [Calendar](https://www.notion.so/Calendar-9d79fab364234b47b6d24021efc28e42)**

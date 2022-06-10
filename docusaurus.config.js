@@ -127,7 +127,7 @@ const config = {
               },
               {
                 label: 'Newsletter',
-                href: 'http://eepurl.com/hSYfK5',
+                href: 'https://algovera.substack.com/',
               },
             ],
           },

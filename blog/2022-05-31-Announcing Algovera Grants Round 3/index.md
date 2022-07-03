@@ -36,5 +36,5 @@ Algovera Squads continue to push the boundaries of innovation in decentralized A
 The following are the provisional dates for Round 2 of Algovera Grants:
 - 1st of June - 15th of June = Application Open & Claim Reputation NFTs (votes)
 - 16th of June - 28th of June = Review & Feedback on Applications
-- 29th of June - 02nd of July = Voting Period
-- 03rd of July = Announce Winners
+- 30th of June - 05th of July = Voting Period
+- 06th of July = Announce Winners

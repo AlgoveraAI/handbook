@@ -15,7 +15,7 @@ We will award **$5000 USDC** in grants to 5 separate projects within the communi
 
 The previous round of voting using Algovera Reputation NFTs was successful, so we'll be using the same approach this time! As a refresher, there are three categories of reputation NFTs:
 
-1.) **Community Member** - Any community member who has added their information to the Community Directory using the form below will receive the Community Member NFT and will be eligible to vote in Round 2 Grant funding. You can add your information to the community directory [here](https://airtable.com/shrQPjhE9wxHbWKL2)!
+1.) **Community Member** - Any community member who has added their information to the Community Directory using the form below will receive the Community Member NFT and will be eligible to vote in Round 3 Grant funding. You can add your information to the community directory [here](https://airtable.com/shrQPjhE9wxHbWKL2)!
 
 2.) **Contributor** - Any community Member who has generated a Cred Score above 10 or is a member of a current Pod or Squad will receive the Contributor NFT. Cred Scores are calculated using default weights in SourceCred, and you can view the Algovera SourceCred graph here. We are constantly exploring ways to more accurately leverage SourceCred, so if you don’t think SourceCred is accurately representing your contributions please contact us in Discord and we can help troubleshoot!
 

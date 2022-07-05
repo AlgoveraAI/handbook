@@ -15,7 +15,11 @@ We will award **$5000 USDC** in grants to 5 separate projects within the communi
 
 The previous round of voting using Algovera Reputation NFTs was successful, so we'll be using the same approach this time! As a refresher, there are three categories of reputation NFTs:
 
+<<<<<<< HEAD
 1.) **Community Member** - Any community member who has added their information to the Community Directory using the form below will receive the original Community Member NFT and will be eligible to vote in Round 3 Grant funding. Additionally, anyone who received praise through our praise system will receive the second edition of Community NFTs. You can add your information to the community directory [here](https://airtable.com/shrQPjhE9wxHbWKL2), and you can reach out to KeatonK | Algovera.ai#6787 on Discord if you think you should have received the second community NFT for praise but do not see it in your wallet!
+=======
+1.) **Community Member** - Any community member who has added their information to the Community Directory using the form below will receive the Community Member NFT and will be eligible to vote in Round 3 Grant funding. You can add your information to the community directory [here](https://airtable.com/shrQPjhE9wxHbWKL2)!
+>>>>>>> 58665f8fe8fb3ce5a705277dacb72820d60d32b5
 
 2.) **Contributor** - Any community Member who has generated a Cred Score above 10 or is a member of a current Pod or Squad will receive the Contributor NFT. Cred Scores are calculated using default weights in SourceCred, and you can view the Algovera SourceCred graph here. We are constantly exploring ways to more accurately leverage SourceCred, so if you don’t think SourceCred is accurately representing your contributions please contact us in Discord and we can help troubleshoot!
 
@@ -36,5 +40,5 @@ Algovera Squads continue to push the boundaries of innovation in decentralized A
 The following are the provisional dates for Round 2 of Algovera Grants:
 - 1st of June - 15th of June = Application Open & Claim Reputation NFTs (votes)
 - 16th of June - 28th of June = Review & Feedback on Applications
-- 29th of June - 02nd of July = Voting Period
-- 03rd of July = Announce Winners
+- 30th of June - 05th of July = Voting Period
+- 06th of July = Announce Winners

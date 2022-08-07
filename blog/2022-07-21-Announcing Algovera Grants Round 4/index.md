@@ -21,7 +21,7 @@ We will continue using [Algovera Reputuation NFTs](https://opensea.io/collection
 
 3.) **Governance Participant** - Any contributor who engaged in governance for previous voting rounds will receive the Governance Participant NFT. The goal of this tier of NFT is to reward and incentivize community members to participate in governance actions like voting for grants!
 
-We will be sending out Governance and Contributor NFTs for folks who now meet the criteria over the coming weeks! If you believe you should have any of the above NFTS in your wallet from previous rounds and you currently do not see them on Opensea.io, please reach out to KeatonK | Algovera.ai#6787 on Discord for assistance!
+We will be sending out Governance and Contributor NFTs for folks who now meet the criteria over the coming weeks! If you believe you should have any of the above NFTS in your wallet from previous rounds and you currently do not see them on Opensea.io, please reach out to Hithesh | Algovera.ai#4001 on Discord for assistance!
 
 You can also read our [introductory blog post on Reputation NFTs here](https://docs.algovera.ai/blog/2022/04/13/Introducing%20Algovera%20Reputation%20NFTs).
 

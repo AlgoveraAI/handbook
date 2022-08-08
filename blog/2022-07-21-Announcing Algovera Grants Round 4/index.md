@@ -36,6 +36,7 @@ Algovera Squads continue to push the boundaries of innovation in decentralized A
 The following are the provisional dates for Round 4 of Algovera Grants:
 - 22nd of July - 6th of August = Application Open
 - 7th of August - 11th of August = Feedback on Applications
-- 12th of August - 15th of August = Claim Reputation NFTs (votes)
+- 12th of August - 14th of August = Claim Reputation NFTs (votes)
+- 15th of August = Snapshot Proposal 
 - 16th of August - 20th of August = Voting Period
 - 21st of August = Announce Winners

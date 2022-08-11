@@ -24,5 +24,3 @@ Perhaps you are interested in [token engineering](https://blog.oceanprotocol.co
 If you have a commercial (rather than a technical) background, some ideas for proposals include:
 
 - **Perform some outreach with potential buyers of an algorithm or service**. For example, maybe there is potential to collaborate with Art DAOs on generative art profile pictures. Or, perhaps artists and creators might be interested in tokenising their datasets and algorithms that are currently off chain. Alternatively, **explore the market for an AI app that doesn’t exist yet**.
-
-<iframe src="https://giphy.com/embed/PjltrbWBuDdZ5PigyJ" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wespark-PjltrbWBuDdZ5PigyJ"></a></p>

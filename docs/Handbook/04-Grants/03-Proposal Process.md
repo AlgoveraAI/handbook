@@ -15,5 +15,3 @@ Algovera Reputation Badges are meant to broadly capture the amount of activity a
 That being said, it’s definitely worth mentioning that the Algovera Reputation system is still currently being developed. The Reputation Badges disbursed each round of voting are intended to be an approximation of value and activity generated. Each community member is eligible to hold multiple Badges (i.e. Contributor and Governance Participant) and will be able to leverage that voting power accordingly.
 
 As always, we are working to create tools and workflows that work best for the community and are actively making adjustments to our processes based on feedback. Please don’t hesitate to reach out to the core team on discord if you have any questions or suggestions!
-
-<iframe src="https://giphy.com/embed/8xgqLTTgWqHWU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8xgqLTTgWqHWU"></a></p>

@@ -1,4 +1,7 @@
 # Introduction to Algovera
+
+![](./this_algo.jpeg)
+
 ## What is Algovera?
 Algovera is a cooperative of people working to develop useful AI apps.
  

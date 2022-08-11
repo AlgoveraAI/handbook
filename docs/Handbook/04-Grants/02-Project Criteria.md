@@ -1,3 +1,5 @@
+![](./assets/muppet_algo.gif)
+
 We are interested in funding projects at the intersection of AI and Web3. The main criteria is that **these algorithms or apps should have an innovative ownership model**. They should create value for the contributors, as well as the users. While we want ideas to form from the bottom up by individuals, we give some ideas below to get the juices flowing. The easiest way to meet the criteria is to use a similar process and technology stack to the one that we have developed (it should be possible to use the hacking sessions and other resources as a guide). One example is to **find an interesting private dataset** on the [Ocean marketplace](https://market.oceanprotocol.com/) **and add some value**:
 
 - Perform an exploratory data analysis of the dataset (of the overall statistics rather than of individual samples) and publish the results to the marketplace.

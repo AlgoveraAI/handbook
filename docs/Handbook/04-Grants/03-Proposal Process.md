@@ -1,3 +1,5 @@
+![](./assets/other_women_algovera.png)
+
 So you resonate with our mission and have an idea for a project. What are the next steps? Below, we talk about what the submission, discussion and voting process for Algovera grants will look like. If you have some suggestions for improvements, we’d love to hear them.
 
 ### Submission and Discussion

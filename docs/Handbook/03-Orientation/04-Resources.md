@@ -1,3 +1,5 @@
+![](./assets/dance_algo.gif)
+
 ## Discord
 
 Discord currently functions as Algovera’s community hub, and is the first place to communicate with fellow members of the Algovera community. If you have a question or want to follow updates from Algovera, then Discord is the place for it.

@@ -1,5 +1,7 @@
 # Algovera Labs
 
+![](./assets/yeah_algo.gif)
+
 The aim of Algovera Labs is to build infrastructure that makes it easier for independent projects in the AI Commons to create things. Algovera Labs is currently funded by grants and consultancy work. Different projects are split into working groups called Pods. A Pod typically focuses on a specific component of infrastructure. A typical process for starting a new Pod is something like:
 
 * Ideate on infrastructure that would be useful for independent AI projects

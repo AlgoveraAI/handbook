@@ -1,4 +1,7 @@
 # Vision
+
+![](./assets/ai_everywhere.png)
+
 Our vision is a world where **AI apps** are co-owned by **creators** and **users**, rather than **AI companies**:
 
 **Creators** will have the freedom to work on projects that they are passionate about, rather than assigned. They will have the freedom to work flexibly for the number of hours and during the time of day that suits them. They will have the ability to fractionalize their time across multiple projects depending on the diversity of their interests. They will be rewarded fairly based on their input across a large range of technical and non-technical contributions.

@@ -1,5 +1,7 @@
 ## Organising People: 
 
+![](./assets/cat_algovera.gif)
+
 Algovera is organised around several types of distinct cooperative groups:
 
 - Pods

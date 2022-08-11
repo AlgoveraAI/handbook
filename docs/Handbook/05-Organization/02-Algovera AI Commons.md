@@ -1,5 +1,7 @@
 # Algovera AI Commons
 
+![](./assets/pool_algo.png)
+
 ## Why do we need an AI Commons?
 
 AI is one of the most powerful technologies that we have access to. Currently, the majority of research and development takes place in teams in a few big companies and universities. The use of these resources is largely dictated by commercial interests in a top-down manner. Often, this results in the development of technologies that are harmful to society (e.g. surveillance, ad clicks, attention engineering). In our experience, generally well-meaning people can be persuaded to work on these technologies through top-down rigid hierarchies. We believe that new types of organizations can take us off our current path. Given the freedom and support to decide on their pursuit, we believe that independent teams will generally work on use cases that are better for the world. Apps can be collectively owned and governed by users and creators, with value generated flowing to more stakeholders. The aim is to put AI development and governance in the hands of many rather than a few. You can read more about our vision for AI ownership here. 

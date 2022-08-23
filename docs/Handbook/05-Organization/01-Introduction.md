@@ -1,1 +1,3 @@
-Algovera is made up of three components: (i) Algovera AI Commons, (ii) Algovera Labs, and (iii) Algovera Marketplace.  
+Algovera is made up of two components: (i) Algovera AI Commons and (ii) Algovera Labs
+
+![Algovera Organisational Components](./assets/intro.png)

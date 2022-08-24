@@ -2,7 +2,7 @@ The following are the latest requirements to recieve Algovera Reputation Badges:
 
 ### Community
 
-Any community member who has added their information to the [Community Directory](https://algovera.notion.site/6de7d47890334b8389b3ded588dd65ee?v=929373418cfa4c13b7d882c3b128cff2) using the form below will receive the Community Member Badge. You can add your information to the community directory [here](https://airtable.com/shrQPjhE9wxHbWKL2)!
+Any community member who has added their information to the [Community Directory](https://algovera.notion.site/6de7d47890334b8389b3ded588dd65ee?v=929373418cfa4c13b7d882c3b128cff2) using the form below will receive the Community Member Badge. You can add your information to the community directory [here](https://airtable.com/shr1jPNvcbd3ElEll)!
 
 ![CommunityNFT](./assets/CommunityNFT.png)
 
@@ -30,4 +30,4 @@ Anyone who gives constructive feedback to project proposals for the current roun
 
 ![ReviewerNFT](./assets/ReviewerNFT.png)
 
-*Note: We use NFTs for badges, since it puts the user (and not the issuer) in control. This means you would be able to use our Reputation Badges outside of our ecosystem in future.*
+_Note: We use NFTs for badges, since it puts the user (and not the issuer) in control. This means you would be able to use our Reputation Badges outside of our ecosystem in future._

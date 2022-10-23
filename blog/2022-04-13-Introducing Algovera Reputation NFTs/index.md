@@ -14,7 +14,7 @@ That being said, it’s definitely worth mentioning that the Algovera Reputation
 
 Algovera Reputation NFTs will be released in three tiers:
 
-1.) **Community Member** - Any community member who has added their information to the Community Directory using the form below will receive the Community Member NFT and will be eligible to vote in Round 2 Grant funding. You can add your information to the community directory [here](https://airtable.com/shrQPjhE9wxHbWKL2)!
+1.) **Community Member** - Any community member who has added their information to the Community Directory using the form below will receive the Community Member NFT and will be eligible to vote in Round 2 Grant funding. You can add your information to the community directory [here](https://airtable.com/shr1jPNvcbd3ElEll)!
 
 2.) **Contributor** - Any community Member who has generated a Cred Score above 10 or is a member of a current Pod or Squad will receive the Contributor NFT.  Cred Scores are calculated using default weights in SourceCred, and you can view the Algovera SourceCred graph [here](https://cred.algovera.ai/#/explorer).  We are constantly exploring ways to more accurately leverage SourceCred, so if you don’t think SourceCred is accurately representing your contributions please contact us in Discord and we can help troubleshoot!
 

@@ -74,20 +74,22 @@ This project is coupling low-code and AI to close the gap and make AI accessible
 
 ![Startin' Blox](./9.png)
 
-### 10. NLPforEdu
+### 10. Roomate's Dog Generator
+This project plans to have a website that generates images of their roommate’s dog with a user inputted text prompt. Read the proposal here https://forum.algovera.ai/t/room-mates-dog-generator-an-ai-web-app-that-generates-my-room-mates-dog-using-textual-inversion/217
+
+![Rommate's Dog Generator](./10.png)
+
+### 11. NLPforEdu
 
 This project is using Deep Learning and LLM models to help the education domain easier by reducing the manual work a learner has to do and help them focus only on things they need to do. Learn more here https://forum.algovera.ai/t/proposal-nlpforedu-med-applying-nlp-in-automating-manual-things-in-medical-education-domain-to-make-them-just-focus-on-learning/219
 
-![NLPforEdu](./10.png)
+![NLPforEdu](./11.png)
 
-### 11. AcuiQ
+### 12. AcuiQ
 
 This project aims to create an automated recommendation engine for acupuncture points, herbal treatments and other TCM protocols. Check out the proposal here https://forum.algovera.ai/t/proposal-acuiq-acupuncture-tcm-treatment-engine/95
 
-![AcuiQ](./11.png)
+![AcuiQ](./12.png)
 
-### 12. Roomate's Dog Generator
-This project plans to have a website that generates images of their roommate’s dog with a user inputted text prompt. Read the proposal here https://forum.algovera.ai/t/room-mates-dog-generator-an-ai-web-app-that-generates-my-room-mates-dog-using-textual-inversion/217
 
-![Rommate's Dog Generator](./12.png)
 

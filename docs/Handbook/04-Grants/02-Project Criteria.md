@@ -1,4 +1,4 @@
-![](./assets/muppet_algo.gif)
+![](./assets/other_women_algovera.png)
 
 We are interested in funding **any and all** projects that use AI. The projects can be open or closed source, product or research-focused and built using any infrastructure. Previous grants that the community has voted to award have included:
 

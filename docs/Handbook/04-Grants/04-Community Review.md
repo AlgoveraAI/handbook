@@ -17,6 +17,6 @@ We plan to add to this list of questions as we study future reviews.
 
 Comments such as "Love the proposal" are still welcome, but won't be considered for Reviewer Badges.
 
-
+_We're very grateful to [Ocean Protocol](https://oceanprotocol.com/) Foundation for sponsoring Algovera Grants._
 
 

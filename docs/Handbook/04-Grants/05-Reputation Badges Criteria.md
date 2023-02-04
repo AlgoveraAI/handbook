@@ -30,4 +30,4 @@ Anyone who gives constructive feedback to project proposals for the current roun
 
 ![ReviewerNFT](./assets/ReviewerNFT.png)
 
-_Note: We use NFTs for badges, since it puts the user (and not the issuer) in control. This means you would be able to use our Reputation Badges outside of our ecosystem in future._
+_We're very grateful to [Ocean Protocol](https://oceanprotocol.com/) Foundation for sponsoring Algovera Grants._

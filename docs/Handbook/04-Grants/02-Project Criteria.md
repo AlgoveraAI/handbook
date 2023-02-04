@@ -22,4 +22,4 @@ For more inspiration on project ideas, you can check out:
 
 Also feel free to brainstorm with the community (and core team) in the #grants channel of our [Discord](https://discord.com/invite/e65RuHSDS5).  
 
-
+_We're very grateful to [Ocean Protocol](https://oceanprotocol.com/) Foundation for sponsoring Algovera Grants._

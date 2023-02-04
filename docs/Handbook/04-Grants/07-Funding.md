@@ -8,3 +8,5 @@ If you are applying for a follow on grant, you need to have deliverables complet
 
 If you are not applying for a follow on grant but wish to claim the remaining 50% of the fund: 
 communicate with the core team that your deliverable are completed, post a video presentation of the deliverables under your original proposal, if no issues are raised the remaining 50% will be transferred. 
+
+_We're very grateful to [Ocean Protocol](https://oceanprotocol.com/) Foundation for sponsoring Algovera Grants._

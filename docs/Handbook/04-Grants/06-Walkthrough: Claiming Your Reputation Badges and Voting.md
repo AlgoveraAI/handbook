@@ -22,7 +22,7 @@ Now that you’ve set up your wallet, you can send your public wallet address (a
 
 ## What are Reputation Badges (and why use NFTs)?
 
-Data scientists may be familiar with reputation systems on other data science platforms. For example, Kaggle uses the [Progression System](https://www.kaggle.com/progression). HuggingFace uses Likes, and GitHub uses Stars. Within Algovera, we also want to allow community members to build reputation and receive [Badges](https://docs.algovera.ai/docs/Handbook/Grants/Reputation%20Badges%20Criteria). We use NFTs for Badges, since it puts the user (and not the issuer) in control. This means you would be able to use our Reputation Badges outside of our ecosystem in future. In comparison, it is not really possible to use your Kaggle reputation outside of that platform. There is no interoperability. Imagine being able to see your Kaggle reputation on your HuggingFace profile. Ultimately, Web3 wallets and NFTs are your ticket to ownership of your online reputation.
+Data scientists may be familiar with reputation systems on other data science platforms. For example, Kaggle uses the [Progression System](https://www.kaggle.com/progression). HuggingFace uses Likes, and GitHub uses Stars. Within Algovera, we also want to allow community members to build reputation and receive [Badges](https://handbook.algovera.ai/docs/Handbook/Grants/Reputation%20Badges%20Criteria). We use NFTs for Badges, since it puts the user (and not the issuer) in control. This means you would be able to use our Reputation Badges outside of our ecosystem in future. In comparison, it is not really possible to use your Kaggle reputation outside of that platform. There is no interoperability. Imagine being able to see your Kaggle reputation on your HuggingFace profile. Ultimately, Web3 wallets and NFTs are your ticket to ownership of your online reputation.
 
 ![](./assets/reputation.png)
 
@@ -33,4 +33,4 @@ In future, you will be able to log in to Algovera Hub and view your Algovera Rep
 ## How can I vote?
 Voting will take place on [Snapshot Spaces](https://snapshot.org/#/algovera.eth/proposal/0x48ebf095f4c3edd097bcb9343134cba4915e597e26d42030ff159de22de4c618) (currently only the previous round is up). Once you navigate to the app, you may already be logged in (if you just signed in to MetaMask for OpenSea). For live rounds of voting, you will see a plus icon beside the different projects. More info coming soon.
 
-
+_We're very grateful to [Ocean Protocol](https://oceanprotocol.com/) Foundation for sponsoring Algovera Grants._

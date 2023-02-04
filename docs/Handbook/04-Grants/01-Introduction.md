@@ -10,7 +10,7 @@ On our journey to date, we’ve realised that to achieve our vision of a thrivin
 
 ### Funding Infrastructure
 
-The Algovera microgrants program is designed to enable builders with early-stage ideas for projects that use AI. There is **$10,000** worth of grants on offer each round with $3000 of this curated by the Algovera core team. The maximum grant for each individual project is $1000 (e.g. to fund one month of part-time work). The grants curated by the core team could be given to retroactively completed projects, projects that didn't reach the top 7 voted by the community, or the core team may decide to not fund all $3000 to projects if it doesn't meet the quality standards. In the case that all the funds by the core team aren't distributed they will roll onto the next round for core team to distribute. As of the end of 2022, we have given out 60 grants to 45+ unique projects.
+The Algovera microgrants program is designed to enable builders with early-stage ideas for projects that use AI. There is **$10,000** worth of grants (sponsored by Ocean Protocol) on offer each round with $3000 of this curated by the Algovera core team. The maximum grant for each individual project is $1000 (e.g. to fund one month of part-time work). The grants curated by the core team could be given to retroactively completed projects, projects that didn't reach the top 7 voted by the community, or the core team may decide to not fund all $3000 to projects if it doesn't meet the quality standards. In the case that all the funds by the core team aren't distributed they will roll onto the next round for core team to distribute. As of the end of 2022, we have given out 60 grants to 45+ unique projects.
 
 ### Social Infrastructure
 

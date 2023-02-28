@@ -16,6 +16,7 @@ from wallet_connect import wallet_connect
 The `wallet_connect` function will have different behavior depending on the `label` passed to it.
 
 Available functionality:
+
 | Label | Description |
 | --- | --- |
 | `wallet` | Connect to a wallet |
